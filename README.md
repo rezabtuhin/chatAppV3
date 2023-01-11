@@ -16,3 +16,11 @@ A cross platform open source mobile messaging application made with **_React Nat
 ## Installation
 
 **Fishbook** is currently under development. There are no release app for this project. But if you want to take a look at the latest development of this application, please follow the instructions below.
+
+> Fishbook requires [Node.js](https://nodejs.org/) v14.18.1 or higher and **_npm v9.2.0_** or higher to run.
+
+### Upgrading npm
+
+```sh
+npm install -g@npm9.2.0
+```
