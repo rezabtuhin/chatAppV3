@@ -1,4 +1,4 @@
-![Fishbook branding](./assets/branding_image/branding_image.jpg "MarineGEO logo")
+![Fishbook branding](./assets/branding_image/branding_image.jpg "😎😎")
 
 ---
 
