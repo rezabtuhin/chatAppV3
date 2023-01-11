@@ -59,6 +59,6 @@ npx expo start
 
 Scan the QR code from the shell with the expo client from your Android or IOS device and you are good to go.
 
-> **_Note:_** `ios` users may face issues with pod installation.
+> **_Note:_** `ios` users may face issues regarding pod installation.
 
 ## Thank you!
