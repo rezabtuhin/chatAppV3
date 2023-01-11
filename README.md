@@ -41,9 +41,8 @@ npm install -g expo-cli
 
 ```sh
 git clone https://github.com/rezabtuhin/chatAppV3.git
+cd chatAppV3
 ```
-
-Navigate to the project folder `cd chatAppV3`
 
 ### Install Dependencies
 
